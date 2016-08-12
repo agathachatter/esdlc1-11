@@ -4,5 +4,5 @@ void main()
   int a,b,c;
   println("Enter two numbers for calculation");
   scanf("%d %d",a,b);
-  c=a+b;
+
 }
